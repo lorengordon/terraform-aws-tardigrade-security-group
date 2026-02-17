@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [2.0.2](https://github.com/plus3it/terraform-aws-tardigrade-security-group/releases/tag/2.0.2)
+
+**Released**: 2026.02.17
+
+**Summary**:
+
+*   Addresses warning when users call module with an aliased provider
+
 ### 1.0.3
 
 **Released**: 2019.10.28
